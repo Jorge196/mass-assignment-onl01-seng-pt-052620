@@ -10,4 +10,5 @@ wrist_size, glove_size, pant_length, pant_width}
 
   def initialize
     @avi_attributes = avi_attributes
+  end
 end
